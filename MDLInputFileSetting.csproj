@@ -67,7 +67,7 @@
     <Reference Include="DevExpress.XtraPrinting.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.XtraSpreadsheet.v19.2, Version=19.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="EPPlus">
-      <HintPath>..\..\Sprints\Sprints2(BGRF-2036)\Backup\12-12-2019\MDLInputFileSetting\bin\EPPlus.dll</HintPath>
+      <HintPath>H:\RA\RF3.11.0-Exadata\EPPlus.dll</HintPath>
     </Reference>
     <Reference Include="Oracle.DataAccess, Version=10.2.0.100, Culture=neutral, PublicKeyToken=89b483f429c47342">
       <SpecificVersion>False</SpecificVersion>
