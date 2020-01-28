@@ -9,8 +9,6 @@ C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\obj\Release\MDLInputFileS
 C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\obj\Release\MDLInputFileSetting.exe.licenses
 C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Release\MDLInputFileSetting.exe
 C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Release\MDLInputFileSetting.pdb
-C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Release\EPPlus.dll
 C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Release\Oracle.DataAccess.dll
-C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Release\SkinProject2.dll
 C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\obj\Release\MDLInputFileSetting.exe
 C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\obj\Release\MDLInputFileSetting.pdb
