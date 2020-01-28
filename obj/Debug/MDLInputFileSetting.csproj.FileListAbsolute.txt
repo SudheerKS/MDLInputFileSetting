@@ -49,3 +49,17 @@ C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\ja\DevExpress.X
 C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\ru\DevExpress.XtraSpreadsheet.v19.2.resources.dll
 C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\System.Threading.dll
 C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\System.Threading.xml
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\resu9001\Documents\GitHub\MDLInputFileSetting\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
