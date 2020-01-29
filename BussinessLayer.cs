@@ -27,7 +27,7 @@ namespace MDL
     class BusinessLayer
     {
         private static string _strConn = "";
-        private string Sqlquery = string.Empty;
+        private string Sqlquery = string.;
         public BusinessLayer()
         {
             _strConn = "Data Source=" + Common.strDBName +
